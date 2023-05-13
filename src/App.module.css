@@ -1,0 +1,10 @@
+.App {
+   text-align: center;
+   display: flex;
+}
+
+body{
+    background-image: url('../src/img/petro-kosariekov-portal-gun-rick-and-morty2-2.gif');
+    background-origin:content-box;
+    background-size:cover;
+} 

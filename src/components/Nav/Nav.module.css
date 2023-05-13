@@ -1,0 +1,10 @@
+.container {
+    text-align: center;
+    background-color:rgba(193, 255, 174, 0.534);
+    box-shadow:
+    0 0 5px
+    rgba(0, 0, 0, 0, 0.15);
+    backdrop-filter: blur(10px);
+    padding: 1em;
+    margin-bottom: 2em;
+}
