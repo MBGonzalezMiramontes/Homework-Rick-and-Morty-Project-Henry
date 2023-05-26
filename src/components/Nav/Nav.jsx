@@ -9,11 +9,11 @@ function Nav ({onSearch}){
             <SearchBar onSearch={onSearch} />
         
             <Link to = '/home'>
-            <buttom>Home</buttom>
+            <button>Home</button>
             </Link>
 
             <Link to = '/about'>
-            <buttom>About</buttom>
+            <button>About</button>
             </Link>
 
         
